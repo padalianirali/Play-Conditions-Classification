@@ -1,2 +1,2 @@
 # Supervised-Binary-Classification-Naive-Bayes
-Classification of restaurant reviews into positive and negative 
+Predicting play conditions based on weather and temperature

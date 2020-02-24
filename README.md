@@ -1,6 +1,7 @@
 # Weather Condition
 
-Agenda: Predicting play conditions based on weather and temperature
-Type: Supervised Classification
-Algorithm: Naive Bayes Classification
-Dataset: Small-sized
+Agenda: Predicting play conditions based on weather and temperature <br/>
+Type: Supervised Classification <br/>
+Algorithm: Naive Bayes Classification <br/>
+Dataset: Small-sized <br/>
+Source: None <br/>
